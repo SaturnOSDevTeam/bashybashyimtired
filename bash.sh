@@ -44,7 +44,7 @@ cd
 
 echo -e "${greenColour}[+]${endColour} ${grayColour}Copying Files${endColour}"
 
-git clone -b balcony🚊 --noconfirm https://github.com/iamverysimp1e/dots
+git clone -b balcony🚊 --noconfirm https://github.com/1amSimp1e/dots/tree/balcony🚊
 cd dots
 cp -r ./configs/* ~/.config/
 
